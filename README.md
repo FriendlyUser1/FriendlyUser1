@@ -35,7 +35,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
@@ -58,10 +58,10 @@
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FriendlyUser1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://github.com/FriendlyUser1?tab=overview&from=2022-03-01&to=2022-03-02#fire-my-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FriendlyUser1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://github.com/FriendlyUser1?tab=overview&from=2022-03-01&to=2022-03-02#hammer_and_wrench-languages-and-tools)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FriendlyUser1&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/FriendlyUser1?tab=overview&from=2022-03-01&to=2022-03-02#fire-my-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FriendlyUser1&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/FriendlyUser1?tab=overview&from=2022-03-01&to=2022-03-02#hammer_and_wrench-languages-and-tools)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser1&layout=compact&theme=onedark)](https://github.com/FriendlyUser1?tab=overview&from=2022-03-01&to=2022-03-02#fire-my-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser1&layout=compact&theme=onedark)](https://github.com/FriendlyUser1?tab=overview&from=2022-03-01&to=2022-03-02#hammer_and_wrench-languages-and-tools)
 
 
