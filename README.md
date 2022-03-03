@@ -20,7 +20,20 @@
   </h1>
 </div>
 
-@@ -38,30 +38,30 @@
+---
+### :technologist: About Me:
+
+:wave: Hi!  I'm ciiro (they/them), a computer science student from the UK with experience in frontend web development.
+
+- :chart_with_upwards_trend: I have a lot of experience with Javascript and node.js, and have made contributions to large applications with thousands of users. 
+- 
+- :eight_spoked_asterisk: I like learning new things and enjoy tackling unfamiliar challenges!
+- 
+- :seedling: Currently learning C# for game development.
+- 
+- :mailbox: Contact: Chihiro Fujisaki#0449 on Discord.
+---
+
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
