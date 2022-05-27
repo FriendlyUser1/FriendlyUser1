@@ -29,7 +29,7 @@
 
 - :eight_spoked_asterisk: I like learning new things and enjoy tackling unfamiliar challenges!
 
-- :seedling: Currently learning C# for game development.
+- :seedling: Currently learning React.js.
 
 - :mailbox: Contact: Chihiro Fujisaki#0449 on Discord.
 ---
