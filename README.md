@@ -8,9 +8,6 @@
   <a href="https://www.youtube.com/channel/UCJalAf9OkFWi1QqCPDhzhOQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/ciirouwu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=FriendlyUser1&style=flat-square&color=blue" alt=""/></a>
 
