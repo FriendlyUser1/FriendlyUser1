@@ -20,7 +20,7 @@
 ---
 ### :technologist: About Me:
 
-:wave: Hi!  I'm ciiro (they/them), a computer science student from the UK with experience in frontend web development.
+:wave: Hi!  I'm ciiro, a computer science student from the UK with experience in frontend web development.
 
 - :chart_with_upwards_trend: I have a lot of experience with Javascript and node.js, and have made contributions to large applications with thousands of users. 
 
