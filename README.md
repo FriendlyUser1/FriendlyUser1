@@ -25,7 +25,7 @@
 
 - :eight_spoked_asterisk: I like learning new things and enjoy being challenged!
 
-- :seedling: Currently learning React.js.
+- :rocket: Currently mastering JavaScript.
 
 - :mailbox: Contact: Chihiro Fujisaki#0449 on Discord.
 ---
