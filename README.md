@@ -12,7 +12,7 @@
   <a href="#"><img src="https://komarev.com/ghpvc/?username=FriendlyUser1&style=flat-square&color=blue" alt=""/></a>
 
   <h1>
-    hi!
+    hi! :D
   </h1>
 </div>
 
