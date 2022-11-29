@@ -23,11 +23,11 @@
 
 - :chart_with_upwards_trend: I have a lot of experience with Javascript and node.js, and have made contributions to large applications with thousands of users. 
 
-- :eight_spoked_asterisk: I like learning new things and enjoy being challenged!
+- :eight_spoked_asterisk: I like learning new things and being challenged!
 
 - :rocket: Currently mastering JavaScript.
 
-- :mailbox: Contact: Chihiro Fujisaki#0449 on discord or email me at ciirodev335@gmail.com.
+- :mailbox: Contact: Chihiro Fujisaki#0449 on Discord or email me at ciirodev335@gmail.com.
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
