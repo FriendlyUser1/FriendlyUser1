@@ -5,14 +5,11 @@
   <!--<a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>-->
-  <a href="https://www.youtube.com/channel/UCJalAf9OkFWi1QqCPDhzhOQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=FriendlyUser1&style=flat-square&color=blue" alt=""/></a>
 
   <h1>
-    hi! :D
+    hi :D
   </h1>
 </div>
 
