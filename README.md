@@ -20,7 +20,7 @@
 
 - :chart_with_upwards_trend: I have a lot of experience with Javascript and node.js, and have made contributions to large applications with thousands of users. 
 
-- :eight_spoked_asterisk: I like learning new things and being challenged!
+- :eight_spoked_asterisk: I like learning new things and tackling unique challenges!
 
 - :rocket: Currently mastering JavaScript.
 
