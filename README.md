@@ -24,7 +24,7 @@
 
 - :rocket: Currently mastering JavaScript.
 
-- :mailbox: Contact: Chihiro Fujisaki#0449 on Discord or email me at ciirodev335@gmail.com.
+- :mailbox: Contact: chihirofujisaki0449 on Discord or email me at ciirodev335@gmail.com.
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
