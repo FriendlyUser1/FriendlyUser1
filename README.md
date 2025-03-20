@@ -7,7 +7,7 @@
 
 ### :technologist: About Me:
 
-:wave: Hi! I'm ciiro, a computer science & cybersecurity student from the UK with experience in full stack web and software development.
+:wave: Hi! I'm Riley, a computer science & cybersecurity student from the UK with experience in full stack web and software development.
 
 - :chart_with_upwards_trend: I have a lot of experience with both offensive and defensive cybersecurity, and industry standard software.
 
